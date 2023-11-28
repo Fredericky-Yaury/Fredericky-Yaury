@@ -1,4 +1,4 @@
-![Header](https://github.com/Fredericky-Yaury/Fredericky-Yaury/blob/main/github-header-image.png)
+![Header](https://github.com/Fredericky-Yaury/Fredericky-Yaury/blob/main/github-header.png)
 <h1 align="center">Hey there! I'm Fredericky Jonery Yaury</h1>
 <h3 align="center">A Computer Science Student from Binus University, Indonesia</h3>
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGlpaThpb216ZG1mbGtubTkxd3U2YjMyaWlrMW45ZzNzN3dqbTJmcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/f6hnhHkks8bk4jwjh3/giphy.gif">
