@@ -3,9 +3,9 @@
 <h3 align="center">A Computer Science Student from Binus University, Indonesia</h3>
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGlpaThpb216ZG1mbGtubTkxd3U2YjMyaWlrMW45ZzNzN3dqbTJmcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/f6hnhHkks8bk4jwjh3/giphy.gif">
 
-- 🔭 I’m currently working on **a Storage/Cashier Java Application**
+- 🔭 I’m currently working on **Indekos Room Management Application**
 
-- 🌱 I’m currently learning **C#, ReactJS, and Kotlin**
+- 🌱 I’m currently learning **Go and Dart**
 
 - 👨‍💻 All of my projects are available at [https://www.notion.so/Let-me-introduce-myself-c78a8befe274414592c40d188e68fe0b](https://www.notion.so/Let-me-introduce-myself-c78a8befe274414592c40d188e68fe0b)
 
